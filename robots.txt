@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rust-lang-by.github.io/sitemap.xml
